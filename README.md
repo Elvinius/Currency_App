@@ -54,6 +54,9 @@ After opening the project in one of the code editors (for example, Visual Studio
 To run the React and open the rendered application:<br>
 ```npm start```
 Open [http://localhost:3000](http://localhost:3000) to view the UI part in the browser. You can find the image from the application below. <br>
+
+![Currency app final design](https://github.com/Elvinius/Currency_App/blob/master/currency_app.png)
+
 In order to run the unit tests type the following command: <br>
 ```npm test``` <br>
 
