@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+
+*:focus {
+    outline: none;
+}
+
+h1 {
+    font-size: 1.9em;
+    text-align: center;
+}
+
+body {
+    background: #44A08D;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #093637, #44A08D);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #093637, #44A08D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.jumbotron {
+    background: rgb(238,236,227);
+    background: linear-gradient(0deg, rgba(238,236,227,1) 1%, rgba(185,178,177,1) 100%);
+    margin: 4em auto;
+    width: 650px;
+    max-width: 100%;  
+}
+
